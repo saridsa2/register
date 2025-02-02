@@ -1,1 +1,8 @@
-
+{
+    "owner" : {
+         "username" : "saridsa1"
+    },
+    "record" : {
+         "RECORDTYPE" : "RECORDCONTENT"
+     }
+}
